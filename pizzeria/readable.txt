@@ -1,0 +1,1 @@
+This is just a ported Roblox game. I wanted to store it on GitHub, and for the code to be open-soure. Anyways, enjoy the code cancer.
