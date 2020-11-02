@@ -1,7 +1,7 @@
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")
 
-local gamePassID = 8308549 --Replace this set of numbers with your gamepass id
+local gamePassID = 8308549 
  
 function onPlayerSpawned(player) 
     
@@ -17,7 +17,7 @@ function onPlayerSpawned(player)
     end
  
     if hasPass == true then
-  game.ServerStorage.Flashlight:clone().Parent = player.Backpack --replace "SuperFlyGoldBoombox" with your item
+  game.ServerStorage.Flashlight:clone().Parent = player.Backpack 
  end
 end 
 
