@@ -28,5 +28,3 @@ end
  
 -- DO NOT CHANGE ANYTHING! --
 -- This script puts a weld in every brick that needs one.--
-
--- MAKE SURE YOU ONLY HAVE 1 BRICK NAMED [Handle] !!! --
