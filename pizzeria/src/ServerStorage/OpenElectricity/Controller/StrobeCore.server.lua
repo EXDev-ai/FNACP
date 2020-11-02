@@ -1,4 +1,3 @@
--- TOOLAME CONFIDENTIAL --
 local Status = script.Parent.Parent.Status
 local StrobeSync = script.Parent.Parent.StrobeSync
 local Run = false
