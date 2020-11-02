@@ -1,6 +1,3 @@
--- CREATED BY HEISTEKNIKK / TOOLAME --
---   COPYRIGHT 2014 HEISTEKNIKK     --
-
 SP = script.Parent
 PanelLcd = SP.Parent.LCD
 SounderCore = SP.SounderCore
