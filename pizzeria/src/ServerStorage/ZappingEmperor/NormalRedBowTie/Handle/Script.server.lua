@@ -1,5 +1,3 @@
---Made by darkmaster1117
-
 debounce = true
 
 function onTouched(hit)
