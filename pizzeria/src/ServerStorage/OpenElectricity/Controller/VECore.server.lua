@@ -1,4 +1,3 @@
--- TOOLAME CONFIDENTIAL --
 local Status = script.Parent.Parent.Status
 local Tone = script.Parent.Parent.SounderTone
 local Run = false
